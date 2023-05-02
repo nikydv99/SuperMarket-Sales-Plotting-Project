@@ -5,6 +5,7 @@ Analyzing and understanding sales data is crucial for businesses, especially in 
 
 **Data Visualization**: Using matplotlib, the sales data is plotted to visualize the trends and patterns in the supermarket sales over time. The x-axis represents the dates, while the y-axis represents the sales figures. The resulting plot provides an overview of the sales performance.
 
+The database used has been downlaoded from kaggle.
 
 **Attribute information**
 
